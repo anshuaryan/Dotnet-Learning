@@ -1,4 +1,4 @@
-namespace DI
+namespace HMSServices
 {
     public class WeatherForecast
     {
