@@ -1,4 +1,4 @@
-@HMSServices_HostAddress = http://localhost:5075
+@HMSServices_HostAddress = http://localhost:5258
 
 GET {{HMSServices_HostAddress}}/weatherforecast/
 Accept: application/json
